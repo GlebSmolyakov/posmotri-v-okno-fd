@@ -258,15 +258,15 @@ ol {
   padding: 0 3px;
 }
 
-.content__card-link:last-child {
+.content__list-item:last-child {
   margin-bottom: 0;
 }
 
-.content__list-item:active {
+.content__card-link:active {
   background-color: #545050;
 }
 
-.content__card-link_current:active {
+.content__card-link_current {
   background-color: #545050;
 }
 
